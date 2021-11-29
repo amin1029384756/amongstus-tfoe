@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://amonus3d.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">730186969442</string>
+  <string name="google_storage_bucket" translatable="false">amonus3d.appspot.com</string>
+  <string name="project_id" translatable="false">amonus3d</string>
+  <string name="google_api_key" translatable="false">AIzaSyBk54888NJauYNsJI8FbDXZK2gAN7o9h9w</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBk54888NJauYNsJI8FbDXZK2gAN7o9h9w</string>
+  <string name="google_app_id" translatable="false">1:730186969442:android:099354f5aa9c6c6b43bc3b</string>
+  <string name="default_web_client_id" translatable="false">730186969442-vd3frnc6civ569f9ap3qtjco9i1vmi6n.apps.googleusercontent.com</string>
+</resources>
