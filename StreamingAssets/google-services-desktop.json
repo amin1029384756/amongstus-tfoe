@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730186969442",
+    "firebase_url": "https://amonus3d.firebaseio.com",
+    "project_id": "amonus3d",
+    "storage_bucket": "amonus3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730186969442:android:099354f5aa9c6c6b43bc3b",
+        "android_client_info": {
+          "package_name": "com.DaiyuGameStudios.AmongstUsTheFallOfEarth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730186969442-vd3frnc6civ569f9ap3qtjco9i1vmi6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk54888NJauYNsJI8FbDXZK2gAN7o9h9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730186969442-vd3frnc6civ569f9ap3qtjco9i1vmi6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
